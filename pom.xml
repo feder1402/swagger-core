@@ -501,7 +501,7 @@
     <jersey2-version>2.1</jersey2-version>
     <jackson-version>2.1.5</jackson-version>
     <jackson-scala-version>2.1.5</jackson-scala-version>
-    <logback-version>1.0.1</logback-version>
+    <logback-version>1.2.13</logback-version>
     <json4s-version>3.2.5</json4s-version>
 
     <junit-version>4.8.1</junit-version>
